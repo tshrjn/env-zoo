@@ -9,6 +9,7 @@ A curated list of environments and tasks for reinforcement learning.
 
 
 
+## Multi Agent
 
 A curated list of multi-agent environments and tasks for reinforcement learning.
 
