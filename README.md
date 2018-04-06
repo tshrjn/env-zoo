@@ -18,6 +18,7 @@ A curated list of single-agent environments and tasks for reinforcement learning
 * Mujoco 
 {[Website](http://www.mujoco.org/)}
 {[python wrapper](https://github.com/openai/mujoco-py)}
+{[open source implementation using pybullet](https://github.com/benelot/pybullet-gym)]
 
 
 * DeepMind AI Safety Gridworlds
