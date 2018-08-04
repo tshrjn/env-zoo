@@ -23,7 +23,7 @@ A curated list of single-agent environments and tasks for reinforcement learning
 {[GitHub](https://github.com/openai/roboschool#environments-list)}
 
 * Robotics - Goal-based Tasks
-{[GitHub](https://gym.openai.com/envs/#robotics)}
+{[Website](https://gym.openai.com/envs/#robotics)}
 
 
 ### DeepMind Environments
