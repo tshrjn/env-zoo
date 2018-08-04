@@ -5,29 +5,43 @@ A curated list of environments and tasks for reinforcement learning.
 ## Single Agent
 A curated list of single-agent environments and tasks for reinforcement learning.
 
-* OpenAI Gym Native Environments 
-{[GitHub](https://github.com/openai/gym/tree/master/gym/envs)}
+### OpenAI Environments {[GitHub](https://github.com/openai/gym/tree/master/gym/envs)} {[Website](https://gym.openai.com/envs/#classic_control)}
 
-* OpenAI Gym roboschool Environments 
-{[GitHub](https://github.com/openai/roboschool#environments-list)}
+* Gym Native Environments 
 
-* OpenAI Retro games 
+* [Atari Learning Environments](https://github.com/mgbellemare/Arcade-Learning-Environment)
+
+* Retro games 
 {[GitHub](https://github.com/openai/retro)}
-
 
 * Mujoco 
 {[Website](http://www.mujoco.org/)}
 {[python wrapper](https://github.com/openai/mujoco-py)}
 {[open source implementation using pybullet](https://github.com/benelot/pybullet-gym)]
 
+* Gym roboschool Environments 
+{[GitHub](https://github.com/openai/roboschool#environments-list)}
 
-* DeepMind AI Safety Gridworlds
+* Robotics - Goal-based Tasks
+{[GitHub](https://gym.openai.com/envs/#robotics)}
+
+
+### DeepMind Environments
+* AI Safety Gridworlds
 {[Paper](https://arxiv.org/pdf/1711.09883.pdf)}
 {[GitHub](https://github.com/deepmind/ai-safety-gridworlds)}
 
+* DeepMind Control Suite
+{[GitHub](https://github.com/deepmind/ai-safety-gridworlds)}
+{[dm_control2gym](https://github.com/martinseilair/dm_control2gym)}
+
+### Others
 * PyBullet Environments
 {[GitHub](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs)}
 
+* Unity 3D Environments
+{[GitHub](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md
+)}
 
 ## Multi Agent
 
@@ -36,7 +50,7 @@ A curated list of multi-agent environments and tasks for reinforcement learning.
 * Starcraft I by Facebook AI Research - TorchCraft 
 {[Paper](https://arxiv.org/pdf/1609.02993v3.pdf)}
 {[GitHub](https://github.com/TorchCraft/TorchCraft)}
-{[python wrapper](https://github.com/alibaba/torchcraft-py)}{[gym-env](https://github.com/alibaba/gym-starcraft)}
+{[gym-env](https://github.com/apsdehal/gym-starcraft)}
 
 * Starcraft II by DeepMind - PySC2 
 {[Paper](https://deepmind.com/documents/110/sc2le.pdf)}
@@ -59,6 +73,10 @@ A curated list of multi-agent environments and tasks for reinforcement learning.
 {[GitHub](https://github.com/LARG/HFO)}
 {[gym-env](https://github.com/openai/gym-soccer)}
 
+* Unity 3D Environments - a few games that are multi-agents
+{[GitHub](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md
+)}
+
 ## Frameworks
 A curated list of frameworks for developing environments for reinforcement learning.
 
@@ -76,5 +94,5 @@ A curated list of frameworks for developing environments for reinforcement learn
 {[GitHub](https://github.com/bulletphysics/bullet3)}
 
 * Unity ML-Agents(Beta)
-{[Github](https://github.com/Unity-Technologies/ml-agents?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)}
+{[Github](https://github.com/Unity-Technologies/ml-agents)}
 
