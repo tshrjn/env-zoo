@@ -43,6 +43,10 @@ A curated list of single-agent environments and tasks for reinforcement learning
 {[GitHub](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md
 )}
 
+* rllab Environments
+{[GitHub](https://github.com/rll/rllab/tree/master/rllab/envs)}
+
+
 ## Multi Agent
 
 A curated list of multi-agent environments and tasks for reinforcement learning.
@@ -96,3 +100,5 @@ A curated list of frameworks for developing environments for reinforcement learn
 * Unity ML-Agents(Beta)
 {[Github](https://github.com/Unity-Technologies/ml-agents)}
 
+* rllab Framework
+{[GitHub](https://github.com/rll/rllab)}
