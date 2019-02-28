@@ -36,8 +36,8 @@ A curated list of single-agent environments and tasks for reinforcement learning
 {[dm_control2gym](https://github.com/martinseilair/dm_control2gym)}
 
 ### Others
-* Emboddied Agents by FAIR
-{[GitHub](https://aihabitat.org)}
+* Habitat - Emboddied Agents by FAIR
+{[Website](https://aihabitat.org)}
 
 * PyBullet Environments
 {[GitHub](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs)}
