@@ -17,7 +17,7 @@ A curated list of single-agent environments and tasks for reinforcement learning
 * Mujoco 
 {[Website](http://www.mujoco.org/)}
 {[python wrapper](https://github.com/openai/mujoco-py)}
-{[open source implementation using pybullet](https://github.com/benelot/pybullet-gym)]
+{[open source implementation using pybullet](https://github.com/benelot/pybullet-gym)}
 
 * Gym roboschool Environments 
 {[GitHub](https://github.com/openai/roboschool#environments-list)}
@@ -36,6 +36,9 @@ A curated list of single-agent environments and tasks for reinforcement learning
 {[dm_control2gym](https://github.com/martinseilair/dm_control2gym)}
 
 ### Others
+* Emboddied Agents by FAIR
+{[GitHub](https://aihabitat.org)}
+
 * PyBullet Environments
 {[GitHub](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs)}
 
@@ -72,6 +75,9 @@ A curated list of multi-agent environments and tasks for reinforcement learning.
 {[Paper](https://arxiv.org/abs/1710.03641)}
 {[GitHub](https://github.com/openai/robosumo)}
 
+* DeepMind MuJoCo Multi-Agent Soccer Environment.
+{[Paper](https://sites.google.com/view/emergent-coordination/home)}
+{[GitHub](https://github.com/deepmind/dm_control/tree/master/dm_control/locomotion/soccer)}
 
 * Soccer Environment 
 {[GitHub](https://github.com/LARG/HFO)}
